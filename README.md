@@ -11,4 +11,4 @@ $ brew install anquinn/vantocsv/vantocsv
 
 ## vantocsv repo and documentation
 
-switchjdk: https://github.com/anquinn/vantocsv
+vantocsv: https://github.com/anquinn/vantocsv
