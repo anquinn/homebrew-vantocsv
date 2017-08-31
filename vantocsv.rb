@@ -1,8 +1,8 @@
 class Vantocsv < Formula
   desc "Converts VAN/liberalist PDF print files to CSV"
   homepage "https://github.com/anquinn/vantocsv"
-  url "https://github.com/anquinn/vantocsv/archive/v1.0.1.tar.gz"
-  sha256 "2beaa7d371632d47a4fd8fb9c56715dbadaa727fc8bb8c0208033194aa13d16f"
+  url "https://github.com/anquinn/vantocsv/archive/v1.0.2.tar.gz"
+  sha256 "74a4025e59b583e1a439ea09e544422406caf9cdc237432795668c8277ac6ea7"
 
   depends_on "poppler"
 
